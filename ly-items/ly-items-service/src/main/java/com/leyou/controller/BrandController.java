@@ -53,6 +53,7 @@ public class BrandController {
 
         System.out.println("00000000");
         System.out.println("555555555");
+        System.out.println("fdsafdg");
     }
 
 
